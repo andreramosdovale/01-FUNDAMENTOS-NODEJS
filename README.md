@@ -7,3 +7,4 @@
 4. Status HTTP.
 5. Criação de Streams de escrita, leitura e transformação.
 6. Integração de Streams dentro dos metodos de request e response.
+7. Middlewares.
